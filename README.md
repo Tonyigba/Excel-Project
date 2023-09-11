@@ -19,3 +19,9 @@ The Medical Student dataset serves as a valuable resource for addressing the bel
 ![Pivot 2 Average Students by Hieght and Wieght](https://github.com/Tonyigba/Excel-Project/assets/143624967/e4c4f81a-a914-44a6-a735-f2d18c7ca91c)
 
 ![Pivot 1 Average A,C, HR, T, BIM](https://github.com/Tonyigba/Excel-Project/assets/143624967/b9ead1a1-2107-4e6e-a2a3-f5ccf87068c1)
+
+
+[EXCELL PROJECT WK1.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577535/EXCELL.PROJECT.WK1.xlsx)
+[Uploading EXCEL TASK WEEK2.xlsx…]()
+[Excel task 3.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577542/Excel.task.3.xlsx)
+[Excel task 3.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577541/Excel.task.3.xlsx)
