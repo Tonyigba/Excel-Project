@@ -22,6 +22,12 @@ The Medical Student dataset serves as a valuable resource for addressing the bel
 
 
 [EXCELL PROJECT WK1.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577535/EXCELL.PROJECT.WK1.xlsx)
+
+
 [Uploading EXCEL TASK WEEK2.xlsx…]()
+[EXCEL TASK WEEK2.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577567/EXCEL.TASK.WEEK2.xlsx)
+
+
 [Excel task 3.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577542/Excel.task.3.xlsx)
+
 [Excel task 3.xlsx](https://github.com/Tonyigba/Excel-Project/files/12577541/Excel.task.3.xlsx)
