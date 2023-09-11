@@ -3,7 +3,6 @@
 
 The Medical Student dataset serves as a valuable resource for addressing the below questions, and analysis focuses on the cleaning, analysis, and visualization.
 
-
 1. Average Age,Cholesterol, Heart Rate, Tempreture and BIM
 
 2. Average Students by Hieght and Wieght
