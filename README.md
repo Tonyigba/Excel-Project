@@ -1,5 +1,5 @@
 # Excel-Project
-# INTRODUCTIN
+# INTRODUCTION
 
 The Medical Student dataset serves as a valuable resource for addressing the below questions, and analysis focuses on the cleaning, analysis, and visualization.
 
